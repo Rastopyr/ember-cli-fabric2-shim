@@ -1,7 +1,7 @@
 {
   "name": "ember-cli-fabric2-shim",
   "version": "0.1.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "Shim for fabric2 with support of WebGl",
   "keywords": [
     "ember-addon"
   ],

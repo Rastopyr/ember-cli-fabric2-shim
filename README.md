@@ -1,6 +1,14 @@
 # ember-cli-fabric2-shim
 
-This README outlines the details of collaborating on this Ember addon.
+Shim for fabric2 with support of WebGl
+
+## How to use
+
+```es6
+import fabrica from 'fabrica';
+
+new fabrica.Canvas('canvasId');
+```
 
 ## Installation
 
