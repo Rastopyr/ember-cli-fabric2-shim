@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-fabric2-shim",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Shim for fabric2 with support of WebGl",
   "keywords": [
     "ember-addon"
