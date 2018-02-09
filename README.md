@@ -5,9 +5,9 @@ Shim for fabric2 with support of WebGl
 ## How to use
 
 ```es6
-import fabrica from 'fabrica';
+import fabric from 'fabric';
 
-new fabrica.Canvas('canvasId');
+new fabric.Canvas('canvasId');
 ```
 
 ## Installation
