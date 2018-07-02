@@ -1,5 +1,8 @@
 # ember-cli-fabric2-shim
 
+
+ember-cli-fabric2-shim is deprecated in favor of https://github.com/ef4/ember-auto-import or https://github.com/rwjblue/ember-cli-cjs-transform
+
 Shim for fabric2 with support of WebGl
 
 ## How to use
